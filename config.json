@@ -1,0 +1,27 @@
+{
+     "MONGO": "",
+     "GEMINI": "",
+     "app": {
+          "token": "",
+          "global": true,
+          "guild": "",
+          "ExtraMessages": false,
+          "loopMessage": false,
+          "client": "1262741989657415800",
+          "prefix": "bk"
+     },
+     "opt": {
+          "idDev": [
+               "874321270437728257",
+               "479182625764802560",
+               "942356413546635264",
+               "1216638785463390299",
+               "1259350604526911509"
+          ]
+     },
+     "levelSystems": {
+          "xp": 10,
+          "cooldown": 2000,
+          "extraXP": 100
+     }
+}
